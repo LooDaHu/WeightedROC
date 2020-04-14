@@ -164,3 +164,4 @@ test_that("aSAH", {
   my.auc <- WeightedAUC(tp.fp)
   expect_equal(my.auc, as.numeric(proc$auc))
 })
+# Toggle Github Action
