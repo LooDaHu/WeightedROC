@@ -1,0 +1,271 @@
+"test_num","test_name","metric_name","status","metric_val","commit_message","commit_SHA","commit_date","benchmark_date"
+1,"AUC consistent with GsymPoint for elastase data set","runtime (in seconds)","Pass",0.0014113,"Update testthat","deff67309ec1d928d0d8707fc292b140ee083355",2020-04-22 08:47:51,2020-04-22 08:59:53
+1,"AUC consistent with GsymPoint for melanoma data set","runtime (in seconds)","Pass",0.0012698,"Update testthat","deff67309ec1d928d0d8707fc292b140ee083355",2020-04-22 08:47:51,2020-04-22 08:59:54
+1,"geometry package auc","runtime (in seconds)","Pass",0.0010255,"Update testthat","deff67309ec1d928d0d8707fc292b140ee083355",2020-04-22 08:47:51,2020-04-22 08:59:54
+1,"identity weights with no ties and perfect classification","runtime (in seconds)","Pass",0.0055013,"Update testthat","deff67309ec1d928d0d8707fc292b140ee083355",2020-04-22 08:47:51,2020-04-22 08:59:55
+1,"identity weights with no ties and 1 bad error","runtime (in seconds)","Pass",0.0052816,"Update testthat","deff67309ec1d928d0d8707fc292b140ee083355",2020-04-22 08:47:51,2020-04-22 08:59:55
+1,"identity weights with no ties and 1 not so bad error","runtime (in seconds)","Pass",0.0052613,"Update testthat","deff67309ec1d928d0d8707fc292b140ee083355",2020-04-22 08:47:51,2020-04-22 08:59:56
+1,"identity weights with 1 tie","runtime (in seconds)","Pass",0.0053235,"Update testthat","deff67309ec1d928d0d8707fc292b140ee083355",2020-04-22 08:47:51,2020-04-22 08:59:56
+1,"variable weights with 1 tie","runtime (in seconds)","Pass",0.0051838,"Update testthat","deff67309ec1d928d0d8707fc292b140ee083355",2020-04-22 08:47:51,2020-04-22 08:59:56
+1,"variable weights with 2 ties","runtime (in seconds)","Pass",0.005607,"Update testthat","deff67309ec1d928d0d8707fc292b140ee083355",2020-04-22 08:47:51,2020-04-22 08:59:57
+1,"ROCR.simple","runtime (in seconds)","Pass",0.0085672,"Update testthat","deff67309ec1d928d0d8707fc292b140ee083355",2020-04-22 08:47:51,2020-04-22 08:59:57
+1,"aSAH","runtime (in seconds)","Pass",0.0065331,"Update testthat","deff67309ec1d928d0d8707fc292b140ee083355",2020-04-22 08:47:51,2020-04-22 08:59:57
+1,"test-auc.R","runtime (in seconds)","Pass",0.9469373,"Update testthat","deff67309ec1d928d0d8707fc292b140ee083355",2020-04-22 08:47:51,2020-04-22 08:59:57
+2,"AUC consistent with GsymPoint for elastase data set","runtime (in seconds)","Pass",0.001237,"Update testthat","deff67309ec1d928d0d8707fc292b140ee083355",2020-04-22 08:47:51,2020-04-22 08:59:59
+2,"AUC consistent with GsymPoint for melanoma data set","runtime (in seconds)","Pass",0.0015834,"Update testthat","deff67309ec1d928d0d8707fc292b140ee083355",2020-04-22 08:47:51,2020-04-22 09:00:01
+2,"geometry package auc","runtime (in seconds)","Pass",0.0010029,"Update testthat","deff67309ec1d928d0d8707fc292b140ee083355",2020-04-22 08:47:51,2020-04-22 09:00:01
+2,"identity weights with no ties and perfect classification","runtime (in seconds)","Pass",0.0052602,"Update testthat","deff67309ec1d928d0d8707fc292b140ee083355",2020-04-22 08:47:51,2020-04-22 09:00:01
+2,"identity weights with no ties and 1 bad error","runtime (in seconds)","Pass",0.0078047,"Update testthat","deff67309ec1d928d0d8707fc292b140ee083355",2020-04-22 08:47:51,2020-04-22 09:00:02
+2,"identity weights with no ties and 1 not so bad error","runtime (in seconds)","Pass",0.0054288,"Update testthat","deff67309ec1d928d0d8707fc292b140ee083355",2020-04-22 08:47:51,2020-04-22 09:00:02
+2,"identity weights with 1 tie","runtime (in seconds)","Pass",0.0051927,"Update testthat","deff67309ec1d928d0d8707fc292b140ee083355",2020-04-22 08:47:51,2020-04-22 09:00:03
+2,"variable weights with 1 tie","runtime (in seconds)","Pass",0.0052101,"Update testthat","deff67309ec1d928d0d8707fc292b140ee083355",2020-04-22 08:47:51,2020-04-22 09:00:03
+2,"variable weights with 2 ties","runtime (in seconds)","Pass",0.0057098,"Update testthat","deff67309ec1d928d0d8707fc292b140ee083355",2020-04-22 08:47:51,2020-04-22 09:00:03
+2,"ROCR.simple","runtime (in seconds)","Pass",0.008621,"Update testthat","deff67309ec1d928d0d8707fc292b140ee083355",2020-04-22 08:47:51,2020-04-22 09:00:04
+2,"aSAH","runtime (in seconds)","Pass",0.0066643,"Update testthat","deff67309ec1d928d0d8707fc292b140ee083355",2020-04-22 08:47:51,2020-04-22 09:00:04
+2,"test-auc.R","runtime (in seconds)","Pass",0.6165238,"Update testthat","deff67309ec1d928d0d8707fc292b140ee083355",2020-04-22 08:47:51,2020-04-22 09:00:04
+3,"AUC consistent with GsymPoint for elastase data set","runtime (in seconds)","Pass",0.0012921,"Update testthat","deff67309ec1d928d0d8707fc292b140ee083355",2020-04-22 08:47:51,2020-04-22 09:00:06
+3,"AUC consistent with GsymPoint for melanoma data set","runtime (in seconds)","Pass",0.0012975,"Update testthat","deff67309ec1d928d0d8707fc292b140ee083355",2020-04-22 08:47:51,2020-04-22 09:00:07
+3,"geometry package auc","runtime (in seconds)","Pass",0.0010049,"Update testthat","deff67309ec1d928d0d8707fc292b140ee083355",2020-04-22 08:47:51,2020-04-22 09:00:07
+3,"identity weights with no ties and perfect classification","runtime (in seconds)","Pass",0.0053606,"Update testthat","deff67309ec1d928d0d8707fc292b140ee083355",2020-04-22 08:47:51,2020-04-22 09:00:08
+3,"identity weights with no ties and 1 bad error","runtime (in seconds)","Pass",0.0054645,"Update testthat","deff67309ec1d928d0d8707fc292b140ee083355",2020-04-22 08:47:51,2020-04-22 09:00:08
+3,"identity weights with no ties and 1 not so bad error","runtime (in seconds)","Pass",0.0053019,"Update testthat","deff67309ec1d928d0d8707fc292b140ee083355",2020-04-22 08:47:51,2020-04-22 09:00:09
+3,"identity weights with 1 tie","runtime (in seconds)","Pass",0.0053971,"Update testthat","deff67309ec1d928d0d8707fc292b140ee083355",2020-04-22 08:47:51,2020-04-22 09:00:09
+3,"variable weights with 1 tie","runtime (in seconds)","Pass",0.0052988,"Update testthat","deff67309ec1d928d0d8707fc292b140ee083355",2020-04-22 08:47:51,2020-04-22 09:00:09
+3,"variable weights with 2 ties","runtime (in seconds)","Pass",0.0053123,"Update testthat","deff67309ec1d928d0d8707fc292b140ee083355",2020-04-22 08:47:51,2020-04-22 09:00:10
+3,"ROCR.simple","runtime (in seconds)","Pass",0.0105862,"Update testthat","deff67309ec1d928d0d8707fc292b140ee083355",2020-04-22 08:47:51,2020-04-22 09:00:10
+3,"aSAH","runtime (in seconds)","Pass",0.0065751,"Update testthat","deff67309ec1d928d0d8707fc292b140ee083355",2020-04-22 08:47:51,2020-04-22 09:00:11
+3,"test-auc.R","runtime (in seconds)","Pass",0.5975107,"Update testthat","deff67309ec1d928d0d8707fc292b140ee083355",2020-04-22 08:47:51,2020-04-22 09:00:11
+1,"AUC consistent with GsymPoint for elastase data set","runtime (in seconds)","Pass",0.0012849,"Update main.yml","11f0a45049d77a4b8512ca4bd833db772a8ea939",2020-04-22 08:47:06,2020-04-22 09:00:12
+1,"AUC consistent with GsymPoint for melanoma data set","runtime (in seconds)","Pass",0.0015075,"Update main.yml","11f0a45049d77a4b8512ca4bd833db772a8ea939",2020-04-22 08:47:06,2020-04-22 09:00:14
+1,"geometry package auc","runtime (in seconds)","Pass",0.0010639,"Update main.yml","11f0a45049d77a4b8512ca4bd833db772a8ea939",2020-04-22 08:47:06,2020-04-22 09:00:14
+1,"identity weights with no ties and perfect classification","runtime (in seconds)","Pass",0.0052578,"Update main.yml","11f0a45049d77a4b8512ca4bd833db772a8ea939",2020-04-22 08:47:06,2020-04-22 09:00:14
+1,"identity weights with no ties and 1 bad error","runtime (in seconds)","Pass",0.0053252,"Update main.yml","11f0a45049d77a4b8512ca4bd833db772a8ea939",2020-04-22 08:47:06,2020-04-22 09:00:15
+1,"identity weights with no ties and 1 not so bad error","runtime (in seconds)","Pass",0.0054692,"Update main.yml","11f0a45049d77a4b8512ca4bd833db772a8ea939",2020-04-22 08:47:06,2020-04-22 09:00:15
+1,"identity weights with 1 tie","runtime (in seconds)","Pass",0.0051906,"Update main.yml","11f0a45049d77a4b8512ca4bd833db772a8ea939",2020-04-22 08:47:06,2020-04-22 09:00:16
+1,"variable weights with 1 tie","runtime (in seconds)","Pass",0.0052917,"Update main.yml","11f0a45049d77a4b8512ca4bd833db772a8ea939",2020-04-22 08:47:06,2020-04-22 09:00:16
+1,"variable weights with 2 ties","runtime (in seconds)","Pass",0.0054628,"Update main.yml","11f0a45049d77a4b8512ca4bd833db772a8ea939",2020-04-22 08:47:06,2020-04-22 09:00:16
+1,"ROCR.simple","runtime (in seconds)","Pass",0.0087083,"Update main.yml","11f0a45049d77a4b8512ca4bd833db772a8ea939",2020-04-22 08:47:06,2020-04-22 09:00:17
+1,"aSAH","runtime (in seconds)","Pass",0.0065096,"Update main.yml","11f0a45049d77a4b8512ca4bd833db772a8ea939",2020-04-22 08:47:06,2020-04-22 09:00:17
+1,"test-auc.R","runtime (in seconds)","Pass",0.6075036,"Update main.yml","11f0a45049d77a4b8512ca4bd833db772a8ea939",2020-04-22 08:47:06,2020-04-22 09:00:17
+2,"AUC consistent with GsymPoint for elastase data set","runtime (in seconds)","Pass",0.0013098,"Update main.yml","11f0a45049d77a4b8512ca4bd833db772a8ea939",2020-04-22 08:47:06,2020-04-22 09:00:19
+2,"AUC consistent with GsymPoint for melanoma data set","runtime (in seconds)","Pass",0.0016256,"Update main.yml","11f0a45049d77a4b8512ca4bd833db772a8ea939",2020-04-22 08:47:06,2020-04-22 09:00:20
+2,"geometry package auc","runtime (in seconds)","Pass",0.0010225,"Update main.yml","11f0a45049d77a4b8512ca4bd833db772a8ea939",2020-04-22 08:47:06,2020-04-22 09:00:21
+2,"identity weights with no ties and perfect classification","runtime (in seconds)","Pass",0.00525,"Update main.yml","11f0a45049d77a4b8512ca4bd833db772a8ea939",2020-04-22 08:47:06,2020-04-22 09:00:21
+2,"identity weights with no ties and 1 bad error","runtime (in seconds)","Pass",0.0053931,"Update main.yml","11f0a45049d77a4b8512ca4bd833db772a8ea939",2020-04-22 08:47:06,2020-04-22 09:00:21
+2,"identity weights with no ties and 1 not so bad error","runtime (in seconds)","Pass",0.0062494,"Update main.yml","11f0a45049d77a4b8512ca4bd833db772a8ea939",2020-04-22 08:47:06,2020-04-22 09:00:22
+2,"identity weights with 1 tie","runtime (in seconds)","Pass",0.0054183,"Update main.yml","11f0a45049d77a4b8512ca4bd833db772a8ea939",2020-04-22 08:47:06,2020-04-22 09:00:22
+2,"variable weights with 1 tie","runtime (in seconds)","Pass",0.0057781,"Update main.yml","11f0a45049d77a4b8512ca4bd833db772a8ea939",2020-04-22 08:47:06,2020-04-22 09:00:22
+2,"variable weights with 2 ties","runtime (in seconds)","Pass",0.0054778,"Update main.yml","11f0a45049d77a4b8512ca4bd833db772a8ea939",2020-04-22 08:47:06,2020-04-22 09:00:23
+2,"ROCR.simple","runtime (in seconds)","Pass",0.0087595,"Update main.yml","11f0a45049d77a4b8512ca4bd833db772a8ea939",2020-04-22 08:47:06,2020-04-22 09:00:23
+2,"aSAH","runtime (in seconds)","Pass",0.0073996,"Update main.yml","11f0a45049d77a4b8512ca4bd833db772a8ea939",2020-04-22 08:47:06,2020-04-22 09:00:24
+2,"test-auc.R","runtime (in seconds)","Pass",0.6064992,"Update main.yml","11f0a45049d77a4b8512ca4bd833db772a8ea939",2020-04-22 08:47:06,2020-04-22 09:00:24
+3,"AUC consistent with GsymPoint for elastase data set","runtime (in seconds)","Pass",0.0013716,"Update main.yml","11f0a45049d77a4b8512ca4bd833db772a8ea939",2020-04-22 08:47:06,2020-04-22 09:00:25
+3,"AUC consistent with GsymPoint for melanoma data set","runtime (in seconds)","Pass",0.0012366,"Update main.yml","11f0a45049d77a4b8512ca4bd833db772a8ea939",2020-04-22 08:47:06,2020-04-22 09:00:27
+3,"geometry package auc","runtime (in seconds)","Pass",0.0010558,"Update main.yml","11f0a45049d77a4b8512ca4bd833db772a8ea939",2020-04-22 08:47:06,2020-04-22 09:00:27
+3,"identity weights with no ties and perfect classification","runtime (in seconds)","Pass",0.0052073,"Update main.yml","11f0a45049d77a4b8512ca4bd833db772a8ea939",2020-04-22 08:47:06,2020-04-22 09:00:27
+3,"identity weights with no ties and 1 bad error","runtime (in seconds)","Pass",0.005178,"Update main.yml","11f0a45049d77a4b8512ca4bd833db772a8ea939",2020-04-22 08:47:06,2020-04-22 09:00:28
+3,"identity weights with no ties and 1 not so bad error","runtime (in seconds)","Pass",0.0055238,"Update main.yml","11f0a45049d77a4b8512ca4bd833db772a8ea939",2020-04-22 08:47:06,2020-04-22 09:00:28
+3,"identity weights with 1 tie","runtime (in seconds)","Pass",0.0051581,"Update main.yml","11f0a45049d77a4b8512ca4bd833db772a8ea939",2020-04-22 08:47:06,2020-04-22 09:00:29
+3,"variable weights with 1 tie","runtime (in seconds)","Pass",0.0051837,"Update main.yml","11f0a45049d77a4b8512ca4bd833db772a8ea939",2020-04-22 08:47:06,2020-04-22 09:00:29
+3,"variable weights with 2 ties","runtime (in seconds)","Pass",0.0053365,"Update main.yml","11f0a45049d77a4b8512ca4bd833db772a8ea939",2020-04-22 08:47:06,2020-04-22 09:00:29
+3,"ROCR.simple","runtime (in seconds)","Pass",0.0088839,"Update main.yml","11f0a45049d77a4b8512ca4bd833db772a8ea939",2020-04-22 08:47:06,2020-04-22 09:00:30
+3,"aSAH","runtime (in seconds)","Pass",0.0067543,"Update main.yml","11f0a45049d77a4b8512ca4bd833db772a8ea939",2020-04-22 08:47:06,2020-04-22 09:00:30
+3,"test-auc.R","runtime (in seconds)","Pass",0.6159858,"Update main.yml","11f0a45049d77a4b8512ca4bd833db772a8ea939",2020-04-22 08:47:06,2020-04-22 09:00:30
+1,"AUC consistent with GsymPoint for elastase data set","runtime (in seconds)","Pass",0.001248,"Update test-auc","273e5dc451ab5076b1c416b08698bb0091d95be4",2020-04-14 13:50:29,2020-04-22 09:00:32
+1,"AUC consistent with GsymPoint for melanoma data set","runtime (in seconds)","Pass",0.0011968,"Update test-auc","273e5dc451ab5076b1c416b08698bb0091d95be4",2020-04-14 13:50:29,2020-04-22 09:00:33
+1,"geometry package auc","runtime (in seconds)","Pass",0.0010249,"Update test-auc","273e5dc451ab5076b1c416b08698bb0091d95be4",2020-04-14 13:50:29,2020-04-22 09:00:33
+1,"identity weights with no ties and perfect classification","runtime (in seconds)","Pass",0.0053228,"Update test-auc","273e5dc451ab5076b1c416b08698bb0091d95be4",2020-04-14 13:50:29,2020-04-22 09:00:34
+1,"identity weights with no ties and 1 bad error","runtime (in seconds)","Pass",0.0051935,"Update test-auc","273e5dc451ab5076b1c416b08698bb0091d95be4",2020-04-14 13:50:29,2020-04-22 09:00:34
+1,"identity weights with no ties and 1 not so bad error","runtime (in seconds)","Pass",0.0051493,"Update test-auc","273e5dc451ab5076b1c416b08698bb0091d95be4",2020-04-14 13:50:29,2020-04-22 09:00:35
+1,"identity weights with 1 tie","runtime (in seconds)","Pass",0.0052235,"Update test-auc","273e5dc451ab5076b1c416b08698bb0091d95be4",2020-04-14 13:50:29,2020-04-22 09:00:35
+1,"variable weights with 1 tie","runtime (in seconds)","Pass",0.0052723,"Update test-auc","273e5dc451ab5076b1c416b08698bb0091d95be4",2020-04-14 13:50:29,2020-04-22 09:00:35
+1,"variable weights with 2 ties","runtime (in seconds)","Pass",0.0052567,"Update test-auc","273e5dc451ab5076b1c416b08698bb0091d95be4",2020-04-14 13:50:29,2020-04-22 09:00:36
+1,"ROCR.simple","runtime (in seconds)","Pass",0.0086255,"Update test-auc","273e5dc451ab5076b1c416b08698bb0091d95be4",2020-04-14 13:50:29,2020-04-22 09:00:36
+1,"aSAH","runtime (in seconds)","Pass",0.0066233,"Update test-auc","273e5dc451ab5076b1c416b08698bb0091d95be4",2020-04-14 13:50:29,2020-04-22 09:00:37
+1,"test-auc.R","runtime (in seconds)","Pass",0.6013395,"Update test-auc","273e5dc451ab5076b1c416b08698bb0091d95be4",2020-04-14 13:50:29,2020-04-22 09:00:37
+2,"AUC consistent with GsymPoint for elastase data set","runtime (in seconds)","Pass",0.0012771,"Update test-auc","273e5dc451ab5076b1c416b08698bb0091d95be4",2020-04-14 13:50:29,2020-04-22 09:00:38
+2,"AUC consistent with GsymPoint for melanoma data set","runtime (in seconds)","Pass",0.0012637,"Update test-auc","273e5dc451ab5076b1c416b08698bb0091d95be4",2020-04-14 13:50:29,2020-04-22 09:00:40
+2,"geometry package auc","runtime (in seconds)","Pass",0.0010041,"Update test-auc","273e5dc451ab5076b1c416b08698bb0091d95be4",2020-04-14 13:50:29,2020-04-22 09:00:40
+2,"identity weights with no ties and perfect classification","runtime (in seconds)","Pass",0.0053168,"Update test-auc","273e5dc451ab5076b1c416b08698bb0091d95be4",2020-04-14 13:50:29,2020-04-22 09:00:40
+2,"identity weights with no ties and 1 bad error","runtime (in seconds)","Pass",0.0052483,"Update test-auc","273e5dc451ab5076b1c416b08698bb0091d95be4",2020-04-14 13:50:29,2020-04-22 09:00:41
+2,"identity weights with no ties and 1 not so bad error","runtime (in seconds)","Pass",0.0052644,"Update test-auc","273e5dc451ab5076b1c416b08698bb0091d95be4",2020-04-14 13:50:29,2020-04-22 09:00:41
+2,"identity weights with 1 tie","runtime (in seconds)","Pass",0.0052074,"Update test-auc","273e5dc451ab5076b1c416b08698bb0091d95be4",2020-04-14 13:50:29,2020-04-22 09:00:41
+2,"variable weights with 1 tie","runtime (in seconds)","Pass",0.0056213,"Update test-auc","273e5dc451ab5076b1c416b08698bb0091d95be4",2020-04-14 13:50:29,2020-04-22 09:00:42
+2,"variable weights with 2 ties","runtime (in seconds)","Pass",0.0055946,"Update test-auc","273e5dc451ab5076b1c416b08698bb0091d95be4",2020-04-14 13:50:29,2020-04-22 09:00:42
+2,"ROCR.simple","runtime (in seconds)","Pass",0.0092055,"Update test-auc","273e5dc451ab5076b1c416b08698bb0091d95be4",2020-04-14 13:50:29,2020-04-22 09:00:43
+2,"aSAH","runtime (in seconds)","Pass",0.0064927,"Update test-auc","273e5dc451ab5076b1c416b08698bb0091d95be4",2020-04-14 13:50:29,2020-04-22 09:00:43
+2,"test-auc.R","runtime (in seconds)","Pass",0.603526,"Update test-auc","273e5dc451ab5076b1c416b08698bb0091d95be4",2020-04-14 13:50:29,2020-04-22 09:00:43
+3,"AUC consistent with GsymPoint for elastase data set","runtime (in seconds)","Pass",0.001266,"Update test-auc","273e5dc451ab5076b1c416b08698bb0091d95be4",2020-04-14 13:50:29,2020-04-22 09:00:45
+3,"AUC consistent with GsymPoint for melanoma data set","runtime (in seconds)","Pass",0.0014859,"Update test-auc","273e5dc451ab5076b1c416b08698bb0091d95be4",2020-04-14 13:50:29,2020-04-22 09:00:46
+3,"geometry package auc","runtime (in seconds)","Pass",0.0010202,"Update test-auc","273e5dc451ab5076b1c416b08698bb0091d95be4",2020-04-14 13:50:29,2020-04-22 09:00:47
+3,"identity weights with no ties and perfect classification","runtime (in seconds)","Pass",0.0054126,"Update test-auc","273e5dc451ab5076b1c416b08698bb0091d95be4",2020-04-14 13:50:29,2020-04-22 09:00:47
+3,"identity weights with no ties and 1 bad error","runtime (in seconds)","Pass",0.0053555,"Update test-auc","273e5dc451ab5076b1c416b08698bb0091d95be4",2020-04-14 13:50:29,2020-04-22 09:00:47
+3,"identity weights with no ties and 1 not so bad error","runtime (in seconds)","Pass",0.0052245,"Update test-auc","273e5dc451ab5076b1c416b08698bb0091d95be4",2020-04-14 13:50:29,2020-04-22 09:00:48
+3,"identity weights with 1 tie","runtime (in seconds)","Pass",0.0052989,"Update test-auc","273e5dc451ab5076b1c416b08698bb0091d95be4",2020-04-14 13:50:29,2020-04-22 09:00:48
+3,"variable weights with 1 tie","runtime (in seconds)","Pass",0.0054433,"Update test-auc","273e5dc451ab5076b1c416b08698bb0091d95be4",2020-04-14 13:50:29,2020-04-22 09:00:48
+3,"variable weights with 2 ties","runtime (in seconds)","Pass",0.0074499,"Update test-auc","273e5dc451ab5076b1c416b08698bb0091d95be4",2020-04-14 13:50:29,2020-04-22 09:00:49
+3,"ROCR.simple","runtime (in seconds)","Pass",0.0088445,"Update test-auc","273e5dc451ab5076b1c416b08698bb0091d95be4",2020-04-14 13:50:29,2020-04-22 09:00:49
+3,"aSAH","runtime (in seconds)","Pass",0.0065916,"Update test-auc","273e5dc451ab5076b1c416b08698bb0091d95be4",2020-04-14 13:50:29,2020-04-22 09:00:50
+3,"test-auc.R","runtime (in seconds)","Pass",0.6125666,"Update test-auc","273e5dc451ab5076b1c416b08698bb0091d95be4",2020-04-14 13:50:29,2020-04-22 09:00:50
+1,"AUC consistent with GsymPoint for elastase data set","runtime (in seconds)","Pass",0.001343,"Create main.yml","45f3311890645a6a4d224d8a2840ad5a88a82aed",2020-04-14 13:49:46,2020-04-22 09:00:51
+1,"AUC consistent with GsymPoint for melanoma data set","runtime (in seconds)","Pass",0.0012432,"Create main.yml","45f3311890645a6a4d224d8a2840ad5a88a82aed",2020-04-14 13:49:46,2020-04-22 09:00:53
+1,"geometry package auc","runtime (in seconds)","Pass",0.0012387,"Create main.yml","45f3311890645a6a4d224d8a2840ad5a88a82aed",2020-04-14 13:49:46,2020-04-22 09:00:53
+1,"identity weights with no ties and perfect classification","runtime (in seconds)","Pass",0.0051755,"Create main.yml","45f3311890645a6a4d224d8a2840ad5a88a82aed",2020-04-14 13:49:46,2020-04-22 09:00:54
+1,"identity weights with no ties and 1 bad error","runtime (in seconds)","Pass",0.0054141,"Create main.yml","45f3311890645a6a4d224d8a2840ad5a88a82aed",2020-04-14 13:49:46,2020-04-22 09:00:54
+1,"identity weights with no ties and 1 not so bad error","runtime (in seconds)","Pass",0.0062763,"Create main.yml","45f3311890645a6a4d224d8a2840ad5a88a82aed",2020-04-14 13:49:46,2020-04-22 09:00:54
+1,"identity weights with 1 tie","runtime (in seconds)","Pass",0.0053942,"Create main.yml","45f3311890645a6a4d224d8a2840ad5a88a82aed",2020-04-14 13:49:46,2020-04-22 09:00:55
+1,"variable weights with 1 tie","runtime (in seconds)","Pass",0.005224,"Create main.yml","45f3311890645a6a4d224d8a2840ad5a88a82aed",2020-04-14 13:49:46,2020-04-22 09:00:55
+1,"variable weights with 2 ties","runtime (in seconds)","Pass",0.0053466,"Create main.yml","45f3311890645a6a4d224d8a2840ad5a88a82aed",2020-04-14 13:49:46,2020-04-22 09:00:55
+1,"ROCR.simple","runtime (in seconds)","Pass",0.0088462,"Create main.yml","45f3311890645a6a4d224d8a2840ad5a88a82aed",2020-04-14 13:49:46,2020-04-22 09:00:56
+1,"aSAH","runtime (in seconds)","Pass",0.0062961,"Create main.yml","45f3311890645a6a4d224d8a2840ad5a88a82aed",2020-04-14 13:49:46,2020-04-22 09:00:56
+1,"test-auc.R","runtime (in seconds)","Pass",0.6232151,"Create main.yml","45f3311890645a6a4d224d8a2840ad5a88a82aed",2020-04-14 13:49:46,2020-04-22 09:00:56
+2,"AUC consistent with GsymPoint for elastase data set","runtime (in seconds)","Pass",0.001232,"Create main.yml","45f3311890645a6a4d224d8a2840ad5a88a82aed",2020-04-14 13:49:46,2020-04-22 09:00:58
+2,"AUC consistent with GsymPoint for melanoma data set","runtime (in seconds)","Pass",0.0012182,"Create main.yml","45f3311890645a6a4d224d8a2840ad5a88a82aed",2020-04-14 13:49:46,2020-04-22 09:00:59
+2,"geometry package auc","runtime (in seconds)","Pass",0.0010071,"Create main.yml","45f3311890645a6a4d224d8a2840ad5a88a82aed",2020-04-14 13:49:46,2020-04-22 09:01:00
+2,"identity weights with no ties and perfect classification","runtime (in seconds)","Pass",0.005292,"Create main.yml","45f3311890645a6a4d224d8a2840ad5a88a82aed",2020-04-14 13:49:46,2020-04-22 09:01:00
+2,"identity weights with no ties and 1 bad error","runtime (in seconds)","Pass",0.0053208,"Create main.yml","45f3311890645a6a4d224d8a2840ad5a88a82aed",2020-04-14 13:49:46,2020-04-22 09:01:00
+2,"identity weights with no ties and 1 not so bad error","runtime (in seconds)","Pass",0.0052617,"Create main.yml","45f3311890645a6a4d224d8a2840ad5a88a82aed",2020-04-14 13:49:46,2020-04-22 09:01:01
+2,"identity weights with 1 tie","runtime (in seconds)","Pass",0.0051633,"Create main.yml","45f3311890645a6a4d224d8a2840ad5a88a82aed",2020-04-14 13:49:46,2020-04-22 09:01:01
+2,"variable weights with 1 tie","runtime (in seconds)","Pass",0.0054112,"Create main.yml","45f3311890645a6a4d224d8a2840ad5a88a82aed",2020-04-14 13:49:46,2020-04-22 09:01:02
+2,"variable weights with 2 ties","runtime (in seconds)","Pass",0.0053233,"Create main.yml","45f3311890645a6a4d224d8a2840ad5a88a82aed",2020-04-14 13:49:46,2020-04-22 09:01:02
+2,"ROCR.simple","runtime (in seconds)","Pass",0.0089665,"Create main.yml","45f3311890645a6a4d224d8a2840ad5a88a82aed",2020-04-14 13:49:46,2020-04-22 09:01:02
+2,"aSAH","runtime (in seconds)","Pass",0.0066686,"Create main.yml","45f3311890645a6a4d224d8a2840ad5a88a82aed",2020-04-14 13:49:46,2020-04-22 09:01:03
+2,"test-auc.R","runtime (in seconds)","Pass",0.6320373,"Create main.yml","45f3311890645a6a4d224d8a2840ad5a88a82aed",2020-04-14 13:49:46,2020-04-22 09:01:03
+3,"AUC consistent with GsymPoint for elastase data set","runtime (in seconds)","Pass",0.0012741,"Create main.yml","45f3311890645a6a4d224d8a2840ad5a88a82aed",2020-04-14 13:49:46,2020-04-22 09:01:05
+3,"AUC consistent with GsymPoint for melanoma data set","runtime (in seconds)","Pass",0.0012155,"Create main.yml","45f3311890645a6a4d224d8a2840ad5a88a82aed",2020-04-14 13:49:46,2020-04-22 09:01:06
+3,"geometry package auc","runtime (in seconds)","Pass",0.001038,"Create main.yml","45f3311890645a6a4d224d8a2840ad5a88a82aed",2020-04-14 13:49:46,2020-04-22 09:01:06
+3,"identity weights with no ties and perfect classification","runtime (in seconds)","Pass",0.0053694,"Create main.yml","45f3311890645a6a4d224d8a2840ad5a88a82aed",2020-04-14 13:49:46,2020-04-22 09:01:07
+3,"identity weights with no ties and 1 bad error","runtime (in seconds)","Pass",0.0052296,"Create main.yml","45f3311890645a6a4d224d8a2840ad5a88a82aed",2020-04-14 13:49:46,2020-04-22 09:01:07
+3,"identity weights with no ties and 1 not so bad error","runtime (in seconds)","Pass",0.005335,"Create main.yml","45f3311890645a6a4d224d8a2840ad5a88a82aed",2020-04-14 13:49:46,2020-04-22 09:01:07
+3,"identity weights with 1 tie","runtime (in seconds)","Pass",0.0054002,"Create main.yml","45f3311890645a6a4d224d8a2840ad5a88a82aed",2020-04-14 13:49:46,2020-04-22 09:01:08
+3,"variable weights with 1 tie","runtime (in seconds)","Pass",0.005257,"Create main.yml","45f3311890645a6a4d224d8a2840ad5a88a82aed",2020-04-14 13:49:46,2020-04-22 09:01:08
+3,"variable weights with 2 ties","runtime (in seconds)","Pass",0.0064753,"Create main.yml","45f3311890645a6a4d224d8a2840ad5a88a82aed",2020-04-14 13:49:46,2020-04-22 09:01:09
+3,"ROCR.simple","runtime (in seconds)","Pass",0.0086558,"Create main.yml","45f3311890645a6a4d224d8a2840ad5a88a82aed",2020-04-14 13:49:46,2020-04-22 09:01:09
+3,"aSAH","runtime (in seconds)","Pass",0.0064326,"Create main.yml","45f3311890645a6a4d224d8a2840ad5a88a82aed",2020-04-14 13:49:46,2020-04-22 09:01:09
+3,"test-auc.R","runtime (in seconds)","Pass",0.6052958,"Create main.yml","45f3311890645a6a4d224d8a2840ad5a88a82aed",2020-04-14 13:49:46,2020-04-22 09:01:09
+1,"AUC consistent with GsymPoint for elastase data set","runtime (in seconds)","Pass",0.0012977,"remove ElemStat","2140adbe2a4b854b53287bc9d64e772f1f21e71d",2020-01-31 16:18:04,2020-04-22 09:01:11
+1,"AUC consistent with GsymPoint for melanoma data set","runtime (in seconds)","Pass",0.0014938,"remove ElemStat","2140adbe2a4b854b53287bc9d64e772f1f21e71d",2020-01-31 16:18:04,2020-04-22 09:01:12
+1,"geometry package auc","runtime (in seconds)","Pass",0.0009995,"remove ElemStat","2140adbe2a4b854b53287bc9d64e772f1f21e71d",2020-01-31 16:18:04,2020-04-22 09:01:13
+1,"identity weights with no ties and perfect classification","runtime (in seconds)","Pass",0.005531,"remove ElemStat","2140adbe2a4b854b53287bc9d64e772f1f21e71d",2020-01-31 16:18:04,2020-04-22 09:01:13
+1,"identity weights with no ties and 1 bad error","runtime (in seconds)","Pass",0.005179,"remove ElemStat","2140adbe2a4b854b53287bc9d64e772f1f21e71d",2020-01-31 16:18:04,2020-04-22 09:01:13
+1,"identity weights with no ties and 1 not so bad error","runtime (in seconds)","Pass",0.0052371,"remove ElemStat","2140adbe2a4b854b53287bc9d64e772f1f21e71d",2020-01-31 16:18:04,2020-04-22 09:01:14
+1,"identity weights with 1 tie","runtime (in seconds)","Pass",0.0052616,"remove ElemStat","2140adbe2a4b854b53287bc9d64e772f1f21e71d",2020-01-31 16:18:04,2020-04-22 09:01:14
+1,"variable weights with 1 tie","runtime (in seconds)","Pass",0.0056743,"remove ElemStat","2140adbe2a4b854b53287bc9d64e772f1f21e71d",2020-01-31 16:18:04,2020-04-22 09:01:15
+1,"variable weights with 2 ties","runtime (in seconds)","Pass",0.0056641,"remove ElemStat","2140adbe2a4b854b53287bc9d64e772f1f21e71d",2020-01-31 16:18:04,2020-04-22 09:01:15
+1,"ROCR.simple","runtime (in seconds)","Pass",0.0088922,"remove ElemStat","2140adbe2a4b854b53287bc9d64e772f1f21e71d",2020-01-31 16:18:04,2020-04-22 09:01:15
+1,"aSAH","runtime (in seconds)","Pass",0.0069912,"remove ElemStat","2140adbe2a4b854b53287bc9d64e772f1f21e71d",2020-01-31 16:18:04,2020-04-22 09:01:16
+1,"test-auc.R","runtime (in seconds)","Pass",0.593274,"remove ElemStat","2140adbe2a4b854b53287bc9d64e772f1f21e71d",2020-01-31 16:18:04,2020-04-22 09:01:16
+2,"AUC consistent with GsymPoint for elastase data set","runtime (in seconds)","Pass",0.0014093,"remove ElemStat","2140adbe2a4b854b53287bc9d64e772f1f21e71d",2020-01-31 16:18:04,2020-04-22 09:01:18
+2,"AUC consistent with GsymPoint for melanoma data set","runtime (in seconds)","Pass",0.0013726,"remove ElemStat","2140adbe2a4b854b53287bc9d64e772f1f21e71d",2020-01-31 16:18:04,2020-04-22 09:01:19
+2,"geometry package auc","runtime (in seconds)","Pass",0.0010098,"remove ElemStat","2140adbe2a4b854b53287bc9d64e772f1f21e71d",2020-01-31 16:18:04,2020-04-22 09:01:19
+2,"identity weights with no ties and perfect classification","runtime (in seconds)","Pass",0.0052249,"remove ElemStat","2140adbe2a4b854b53287bc9d64e772f1f21e71d",2020-01-31 16:18:04,2020-04-22 09:01:20
+2,"identity weights with no ties and 1 bad error","runtime (in seconds)","Pass",0.0052107,"remove ElemStat","2140adbe2a4b854b53287bc9d64e772f1f21e71d",2020-01-31 16:18:04,2020-04-22 09:01:20
+2,"identity weights with no ties and 1 not so bad error","runtime (in seconds)","Pass",0.0053997,"remove ElemStat","2140adbe2a4b854b53287bc9d64e772f1f21e71d",2020-01-31 16:18:04,2020-04-22 09:01:20
+2,"identity weights with 1 tie","runtime (in seconds)","Pass",0.0053644,"remove ElemStat","2140adbe2a4b854b53287bc9d64e772f1f21e71d",2020-01-31 16:18:04,2020-04-22 09:01:21
+2,"variable weights with 1 tie","runtime (in seconds)","Pass",0.0052554,"remove ElemStat","2140adbe2a4b854b53287bc9d64e772f1f21e71d",2020-01-31 16:18:04,2020-04-22 09:01:21
+2,"variable weights with 2 ties","runtime (in seconds)","Pass",0.005398,"remove ElemStat","2140adbe2a4b854b53287bc9d64e772f1f21e71d",2020-01-31 16:18:04,2020-04-22 09:01:22
+2,"ROCR.simple","runtime (in seconds)","Pass",0.0089596,"remove ElemStat","2140adbe2a4b854b53287bc9d64e772f1f21e71d",2020-01-31 16:18:04,2020-04-22 09:01:22
+2,"aSAH","runtime (in seconds)","Pass",0.0063963,"remove ElemStat","2140adbe2a4b854b53287bc9d64e772f1f21e71d",2020-01-31 16:18:04,2020-04-22 09:01:22
+2,"test-auc.R","runtime (in seconds)","Pass",0.6783929,"remove ElemStat","2140adbe2a4b854b53287bc9d64e772f1f21e71d",2020-01-31 16:18:04,2020-04-22 09:01:22
+3,"AUC consistent with GsymPoint for elastase data set","runtime (in seconds)","Pass",0.0012301,"remove ElemStat","2140adbe2a4b854b53287bc9d64e772f1f21e71d",2020-01-31 16:18:04,2020-04-22 09:01:24
+3,"AUC consistent with GsymPoint for melanoma data set","runtime (in seconds)","Pass",0.001268,"remove ElemStat","2140adbe2a4b854b53287bc9d64e772f1f21e71d",2020-01-31 16:18:04,2020-04-22 09:01:25
+3,"geometry package auc","runtime (in seconds)","Pass",0.0009846,"remove ElemStat","2140adbe2a4b854b53287bc9d64e772f1f21e71d",2020-01-31 16:18:04,2020-04-22 09:01:26
+3,"identity weights with no ties and perfect classification","runtime (in seconds)","Pass",0.0052704,"remove ElemStat","2140adbe2a4b854b53287bc9d64e772f1f21e71d",2020-01-31 16:18:04,2020-04-22 09:01:26
+3,"identity weights with no ties and 1 bad error","runtime (in seconds)","Pass",0.0052328,"remove ElemStat","2140adbe2a4b854b53287bc9d64e772f1f21e71d",2020-01-31 16:18:04,2020-04-22 09:01:27
+3,"identity weights with no ties and 1 not so bad error","runtime (in seconds)","Pass",0.0052946,"remove ElemStat","2140adbe2a4b854b53287bc9d64e772f1f21e71d",2020-01-31 16:18:04,2020-04-22 09:01:27
+3,"identity weights with 1 tie","runtime (in seconds)","Pass",0.0051802,"remove ElemStat","2140adbe2a4b854b53287bc9d64e772f1f21e71d",2020-01-31 16:18:04,2020-04-22 09:01:27
+3,"variable weights with 1 tie","runtime (in seconds)","Pass",0.0052262,"remove ElemStat","2140adbe2a4b854b53287bc9d64e772f1f21e71d",2020-01-31 16:18:04,2020-04-22 09:01:28
+3,"variable weights with 2 ties","runtime (in seconds)","Pass",0.0051491,"remove ElemStat","2140adbe2a4b854b53287bc9d64e772f1f21e71d",2020-01-31 16:18:04,2020-04-22 09:01:28
+3,"ROCR.simple","runtime (in seconds)","Pass",0.0089334,"remove ElemStat","2140adbe2a4b854b53287bc9d64e772f1f21e71d",2020-01-31 16:18:04,2020-04-22 09:01:28
+3,"aSAH","runtime (in seconds)","Pass",0.0065215,"remove ElemStat","2140adbe2a4b854b53287bc9d64e772f1f21e71d",2020-01-31 16:18:04,2020-04-22 09:01:29
+3,"test-auc.R","runtime (in seconds)","Pass",0.5943834,"remove ElemStat","2140adbe2a4b854b53287bc9d64e772f1f21e71d",2020-01-31 16:18:04,2020-04-22 09:01:29
+1,"data set with no positive labels is an error","runtime (in seconds)","Pass",0.0055795,"Update testthat","deff67309ec1d928d0d8707fc292b140ee083355",2020-04-22 08:47:51,2020-04-22 09:01:30
+1,"data set with no negative labels is an error","runtime (in seconds)","Pass",0.0053282,"Update testthat","deff67309ec1d928d0d8707fc292b140ee083355",2020-04-22 08:47:51,2020-04-22 09:01:30
+1,"NA labels is an error","runtime (in seconds)","Pass",0.005597,"Update testthat","deff67309ec1d928d0d8707fc292b140ee083355",2020-04-22 08:47:51,2020-04-22 09:01:31
+1,"NA scores is an error","runtime (in seconds)","Pass",0.0051138,"Update testthat","deff67309ec1d928d0d8707fc292b140ee083355",2020-04-22 08:47:51,2020-04-22 09:01:31
+1,"NA weights is an error","runtime (in seconds)","Pass",0.0054444,"Update testthat","deff67309ec1d928d0d8707fc292b140ee083355",2020-04-22 08:47:51,2020-04-22 09:01:31
+1,"test-errors.R","runtime (in seconds)","Pass",0.0284847,"Update testthat","deff67309ec1d928d0d8707fc292b140ee083355",2020-04-22 08:47:51,2020-04-22 09:01:31
+2,"data set with no positive labels is an error","runtime (in seconds)","Pass",0.0054439,"Update testthat","deff67309ec1d928d0d8707fc292b140ee083355",2020-04-22 08:47:51,2020-04-22 09:01:32
+2,"data set with no negative labels is an error","runtime (in seconds)","Pass",0.0053407,"Update testthat","deff67309ec1d928d0d8707fc292b140ee083355",2020-04-22 08:47:51,2020-04-22 09:01:33
+2,"NA labels is an error","runtime (in seconds)","Pass",0.0052488,"Update testthat","deff67309ec1d928d0d8707fc292b140ee083355",2020-04-22 08:47:51,2020-04-22 09:01:33
+2,"NA scores is an error","runtime (in seconds)","Pass",0.0053634,"Update testthat","deff67309ec1d928d0d8707fc292b140ee083355",2020-04-22 08:47:51,2020-04-22 09:01:34
+2,"NA weights is an error","runtime (in seconds)","Pass",0.0055643,"Update testthat","deff67309ec1d928d0d8707fc292b140ee083355",2020-04-22 08:47:51,2020-04-22 09:01:34
+2,"test-errors.R","runtime (in seconds)","Pass",0.0242339,"Update testthat","deff67309ec1d928d0d8707fc292b140ee083355",2020-04-22 08:47:51,2020-04-22 09:01:34
+3,"data set with no positive labels is an error","runtime (in seconds)","Pass",0.0054606,"Update testthat","deff67309ec1d928d0d8707fc292b140ee083355",2020-04-22 08:47:51,2020-04-22 09:01:35
+3,"data set with no negative labels is an error","runtime (in seconds)","Pass",0.0052822,"Update testthat","deff67309ec1d928d0d8707fc292b140ee083355",2020-04-22 08:47:51,2020-04-22 09:01:35
+3,"NA labels is an error","runtime (in seconds)","Pass",0.0067039,"Update testthat","deff67309ec1d928d0d8707fc292b140ee083355",2020-04-22 08:47:51,2020-04-22 09:01:36
+3,"NA scores is an error","runtime (in seconds)","Pass",0.0053981,"Update testthat","deff67309ec1d928d0d8707fc292b140ee083355",2020-04-22 08:47:51,2020-04-22 09:01:36
+3,"NA weights is an error","runtime (in seconds)","Pass",0.0052282,"Update testthat","deff67309ec1d928d0d8707fc292b140ee083355",2020-04-22 08:47:51,2020-04-22 09:01:37
+3,"test-errors.R","runtime (in seconds)","Pass",0.0241949,"Update testthat","deff67309ec1d928d0d8707fc292b140ee083355",2020-04-22 08:47:51,2020-04-22 09:01:37
+1,"data set with no positive labels is an error","runtime (in seconds)","Pass",0.0056163,"Update main.yml","11f0a45049d77a4b8512ca4bd833db772a8ea939",2020-04-22 08:47:06,2020-04-22 09:01:38
+1,"data set with no negative labels is an error","runtime (in seconds)","Pass",0.0053229,"Update main.yml","11f0a45049d77a4b8512ca4bd833db772a8ea939",2020-04-22 08:47:06,2020-04-22 09:01:38
+1,"NA labels is an error","runtime (in seconds)","Pass",0.0053328,"Update main.yml","11f0a45049d77a4b8512ca4bd833db772a8ea939",2020-04-22 08:47:06,2020-04-22 09:01:38
+1,"NA scores is an error","runtime (in seconds)","Pass",0.0055981,"Update main.yml","11f0a45049d77a4b8512ca4bd833db772a8ea939",2020-04-22 08:47:06,2020-04-22 09:01:39
+1,"NA weights is an error","runtime (in seconds)","Pass",0.0061474,"Update main.yml","11f0a45049d77a4b8512ca4bd833db772a8ea939",2020-04-22 08:47:06,2020-04-22 09:01:39
+1,"test-errors.R","runtime (in seconds)","Pass",0.024206,"Update main.yml","11f0a45049d77a4b8512ca4bd833db772a8ea939",2020-04-22 08:47:06,2020-04-22 09:01:39
+2,"data set with no positive labels is an error","runtime (in seconds)","Pass",0.0053098,"Update main.yml","11f0a45049d77a4b8512ca4bd833db772a8ea939",2020-04-22 08:47:06,2020-04-22 09:01:40
+2,"data set with no negative labels is an error","runtime (in seconds)","Pass",0.0054168,"Update main.yml","11f0a45049d77a4b8512ca4bd833db772a8ea939",2020-04-22 08:47:06,2020-04-22 09:01:41
+2,"NA labels is an error","runtime (in seconds)","Pass",0.0052344,"Update main.yml","11f0a45049d77a4b8512ca4bd833db772a8ea939",2020-04-22 08:47:06,2020-04-22 09:01:41
+2,"NA scores is an error","runtime (in seconds)","Pass",0.0054592,"Update main.yml","11f0a45049d77a4b8512ca4bd833db772a8ea939",2020-04-22 08:47:06,2020-04-22 09:01:41
+2,"NA weights is an error","runtime (in seconds)","Pass",0.0054019,"Update main.yml","11f0a45049d77a4b8512ca4bd833db772a8ea939",2020-04-22 08:47:06,2020-04-22 09:01:42
+2,"test-errors.R","runtime (in seconds)","Pass",0.024654,"Update main.yml","11f0a45049d77a4b8512ca4bd833db772a8ea939",2020-04-22 08:47:06,2020-04-22 09:01:42
+3,"data set with no positive labels is an error","runtime (in seconds)","Pass",0.0053633,"Update main.yml","11f0a45049d77a4b8512ca4bd833db772a8ea939",2020-04-22 08:47:06,2020-04-22 09:01:43
+3,"data set with no negative labels is an error","runtime (in seconds)","Pass",0.00549,"Update main.yml","11f0a45049d77a4b8512ca4bd833db772a8ea939",2020-04-22 08:47:06,2020-04-22 09:01:43
+3,"NA labels is an error","runtime (in seconds)","Pass",0.0055261,"Update main.yml","11f0a45049d77a4b8512ca4bd833db772a8ea939",2020-04-22 08:47:06,2020-04-22 09:01:44
+3,"NA scores is an error","runtime (in seconds)","Pass",0.0051745,"Update main.yml","11f0a45049d77a4b8512ca4bd833db772a8ea939",2020-04-22 08:47:06,2020-04-22 09:01:44
+3,"NA weights is an error","runtime (in seconds)","Pass",0.0053083,"Update main.yml","11f0a45049d77a4b8512ca4bd833db772a8ea939",2020-04-22 08:47:06,2020-04-22 09:01:44
+3,"test-errors.R","runtime (in seconds)","Pass",0.0244685,"Update main.yml","11f0a45049d77a4b8512ca4bd833db772a8ea939",2020-04-22 08:47:06,2020-04-22 09:01:44
+1,"data set with no positive labels is an error","runtime (in seconds)","Pass",0.0056396,"Update test-auc","273e5dc451ab5076b1c416b08698bb0091d95be4",2020-04-14 13:50:29,2020-04-22 09:01:46
+1,"data set with no negative labels is an error","runtime (in seconds)","Pass",0.0053791,"Update test-auc","273e5dc451ab5076b1c416b08698bb0091d95be4",2020-04-14 13:50:29,2020-04-22 09:01:46
+1,"NA labels is an error","runtime (in seconds)","Pass",0.0052828,"Update test-auc","273e5dc451ab5076b1c416b08698bb0091d95be4",2020-04-14 13:50:29,2020-04-22 09:01:46
+1,"NA scores is an error","runtime (in seconds)","Pass",0.0053666,"Update test-auc","273e5dc451ab5076b1c416b08698bb0091d95be4",2020-04-14 13:50:29,2020-04-22 09:01:47
+1,"NA weights is an error","runtime (in seconds)","Pass",0.0052175,"Update test-auc","273e5dc451ab5076b1c416b08698bb0091d95be4",2020-04-14 13:50:29,2020-04-22 09:01:47
+1,"test-errors.R","runtime (in seconds)","Pass",0.0286419,"Update test-auc","273e5dc451ab5076b1c416b08698bb0091d95be4",2020-04-14 13:50:29,2020-04-22 09:01:47
+2,"data set with no positive labels is an error","runtime (in seconds)","Pass",0.0051809,"Update test-auc","273e5dc451ab5076b1c416b08698bb0091d95be4",2020-04-14 13:50:29,2020-04-22 09:01:48
+2,"data set with no negative labels is an error","runtime (in seconds)","Pass",0.0052307,"Update test-auc","273e5dc451ab5076b1c416b08698bb0091d95be4",2020-04-14 13:50:29,2020-04-22 09:01:48
+2,"NA labels is an error","runtime (in seconds)","Pass",0.0053291,"Update test-auc","273e5dc451ab5076b1c416b08698bb0091d95be4",2020-04-14 13:50:29,2020-04-22 09:01:49
+2,"NA scores is an error","runtime (in seconds)","Pass",0.005159,"Update test-auc","273e5dc451ab5076b1c416b08698bb0091d95be4",2020-04-14 13:50:29,2020-04-22 09:01:49
+2,"NA weights is an error","runtime (in seconds)","Pass",0.0053363,"Update test-auc","273e5dc451ab5076b1c416b08698bb0091d95be4",2020-04-14 13:50:29,2020-04-22 09:01:50
+2,"test-errors.R","runtime (in seconds)","Pass",0.0240048,"Update test-auc","273e5dc451ab5076b1c416b08698bb0091d95be4",2020-04-14 13:50:29,2020-04-22 09:01:50
+3,"data set with no positive labels is an error","runtime (in seconds)","Pass",0.0053331,"Update test-auc","273e5dc451ab5076b1c416b08698bb0091d95be4",2020-04-14 13:50:29,2020-04-22 09:01:51
+3,"data set with no negative labels is an error","runtime (in seconds)","Pass",0.0052883,"Update test-auc","273e5dc451ab5076b1c416b08698bb0091d95be4",2020-04-14 13:50:29,2020-04-22 09:01:51
+3,"NA labels is an error","runtime (in seconds)","Pass",0.0053369,"Update test-auc","273e5dc451ab5076b1c416b08698bb0091d95be4",2020-04-14 13:50:29,2020-04-22 09:01:51
+3,"NA scores is an error","runtime (in seconds)","Pass",0.0052014,"Update test-auc","273e5dc451ab5076b1c416b08698bb0091d95be4",2020-04-14 13:50:29,2020-04-22 09:01:52
+3,"NA weights is an error","runtime (in seconds)","Pass",0.005281,"Update test-auc","273e5dc451ab5076b1c416b08698bb0091d95be4",2020-04-14 13:50:29,2020-04-22 09:01:52
+3,"test-errors.R","runtime (in seconds)","Pass",0.0242243,"Update test-auc","273e5dc451ab5076b1c416b08698bb0091d95be4",2020-04-14 13:50:29,2020-04-22 09:01:52
+1,"data set with no positive labels is an error","runtime (in seconds)","Pass",0.0053532,"Create main.yml","45f3311890645a6a4d224d8a2840ad5a88a82aed",2020-04-14 13:49:46,2020-04-22 09:01:53
+1,"data set with no negative labels is an error","runtime (in seconds)","Pass",0.0055776,"Create main.yml","45f3311890645a6a4d224d8a2840ad5a88a82aed",2020-04-14 13:49:46,2020-04-22 09:01:54
+1,"NA labels is an error","runtime (in seconds)","Pass",0.0054686,"Create main.yml","45f3311890645a6a4d224d8a2840ad5a88a82aed",2020-04-14 13:49:46,2020-04-22 09:01:54
+1,"NA scores is an error","runtime (in seconds)","Pass",0.0052069,"Create main.yml","45f3311890645a6a4d224d8a2840ad5a88a82aed",2020-04-14 13:49:46,2020-04-22 09:01:54
+1,"NA weights is an error","runtime (in seconds)","Pass",0.0054835,"Create main.yml","45f3311890645a6a4d224d8a2840ad5a88a82aed",2020-04-14 13:49:46,2020-04-22 09:01:55
+1,"test-errors.R","runtime (in seconds)","Pass",0.0245792,"Create main.yml","45f3311890645a6a4d224d8a2840ad5a88a82aed",2020-04-14 13:49:46,2020-04-22 09:01:55
+2,"data set with no positive labels is an error","runtime (in seconds)","Pass",0.0052803,"Create main.yml","45f3311890645a6a4d224d8a2840ad5a88a82aed",2020-04-14 13:49:46,2020-04-22 09:01:56
+2,"data set with no negative labels is an error","runtime (in seconds)","Pass",0.0052064,"Create main.yml","45f3311890645a6a4d224d8a2840ad5a88a82aed",2020-04-14 13:49:46,2020-04-22 09:01:56
+2,"NA labels is an error","runtime (in seconds)","Pass",0.0052883,"Create main.yml","45f3311890645a6a4d224d8a2840ad5a88a82aed",2020-04-14 13:49:46,2020-04-22 09:01:57
+2,"NA scores is an error","runtime (in seconds)","Pass",0.009105,"Create main.yml","45f3311890645a6a4d224d8a2840ad5a88a82aed",2020-04-14 13:49:46,2020-04-22 09:01:57
+2,"NA weights is an error","runtime (in seconds)","Pass",0.0052399,"Create main.yml","45f3311890645a6a4d224d8a2840ad5a88a82aed",2020-04-14 13:49:46,2020-04-22 09:01:58
+2,"test-errors.R","runtime (in seconds)","Pass",0.0255611,"Create main.yml","45f3311890645a6a4d224d8a2840ad5a88a82aed",2020-04-14 13:49:46,2020-04-22 09:01:58
+3,"data set with no positive labels is an error","runtime (in seconds)","Pass",0.0052202,"Create main.yml","45f3311890645a6a4d224d8a2840ad5a88a82aed",2020-04-14 13:49:46,2020-04-22 09:01:59
+3,"data set with no negative labels is an error","runtime (in seconds)","Pass",0.005191,"Create main.yml","45f3311890645a6a4d224d8a2840ad5a88a82aed",2020-04-14 13:49:46,2020-04-22 09:01:59
+3,"NA labels is an error","runtime (in seconds)","Pass",0.0051233,"Create main.yml","45f3311890645a6a4d224d8a2840ad5a88a82aed",2020-04-14 13:49:46,2020-04-22 09:01:59
+3,"NA scores is an error","runtime (in seconds)","Pass",0.0052404,"Create main.yml","45f3311890645a6a4d224d8a2840ad5a88a82aed",2020-04-14 13:49:46,2020-04-22 09:02:00
+3,"NA weights is an error","runtime (in seconds)","Pass",0.0080863,"Create main.yml","45f3311890645a6a4d224d8a2840ad5a88a82aed",2020-04-14 13:49:46,2020-04-22 09:02:00
+3,"test-errors.R","runtime (in seconds)","Pass",0.0285198,"Create main.yml","45f3311890645a6a4d224d8a2840ad5a88a82aed",2020-04-14 13:49:46,2020-04-22 09:02:00
+1,"data set with no positive labels is an error","runtime (in seconds)","Pass",0.0053305,"remove ElemStat","2140adbe2a4b854b53287bc9d64e772f1f21e71d",2020-01-31 16:18:04,2020-04-22 09:02:01
+1,"data set with no negative labels is an error","runtime (in seconds)","Pass",0.0053214,"remove ElemStat","2140adbe2a4b854b53287bc9d64e772f1f21e71d",2020-01-31 16:18:04,2020-04-22 09:02:02
+1,"NA labels is an error","runtime (in seconds)","Pass",0.0053458,"remove ElemStat","2140adbe2a4b854b53287bc9d64e772f1f21e71d",2020-01-31 16:18:04,2020-04-22 09:02:02
+1,"NA scores is an error","runtime (in seconds)","Pass",0.0053848,"remove ElemStat","2140adbe2a4b854b53287bc9d64e772f1f21e71d",2020-01-31 16:18:04,2020-04-22 09:02:02
+1,"NA weights is an error","runtime (in seconds)","Pass",0.0055655,"remove ElemStat","2140adbe2a4b854b53287bc9d64e772f1f21e71d",2020-01-31 16:18:04,2020-04-22 09:02:03
+1,"test-errors.R","runtime (in seconds)","Pass",0.023977,"remove ElemStat","2140adbe2a4b854b53287bc9d64e772f1f21e71d",2020-01-31 16:18:04,2020-04-22 09:02:03
+2,"data set with no positive labels is an error","runtime (in seconds)","Pass",0.0063716,"remove ElemStat","2140adbe2a4b854b53287bc9d64e772f1f21e71d",2020-01-31 16:18:04,2020-04-22 09:02:04
+2,"data set with no negative labels is an error","runtime (in seconds)","Pass",0.0052093,"remove ElemStat","2140adbe2a4b854b53287bc9d64e772f1f21e71d",2020-01-31 16:18:04,2020-04-22 09:02:04
+2,"NA labels is an error","runtime (in seconds)","Pass",0.0054974,"remove ElemStat","2140adbe2a4b854b53287bc9d64e772f1f21e71d",2020-01-31 16:18:04,2020-04-22 09:02:05
+2,"NA scores is an error","runtime (in seconds)","Pass",0.0053546,"remove ElemStat","2140adbe2a4b854b53287bc9d64e772f1f21e71d",2020-01-31 16:18:04,2020-04-22 09:02:05
+2,"NA weights is an error","runtime (in seconds)","Pass",0.0053196,"remove ElemStat","2140adbe2a4b854b53287bc9d64e772f1f21e71d",2020-01-31 16:18:04,2020-04-22 09:02:05
+2,"test-errors.R","runtime (in seconds)","Pass",0.0246639,"remove ElemStat","2140adbe2a4b854b53287bc9d64e772f1f21e71d",2020-01-31 16:18:04,2020-04-22 09:02:05
+3,"data set with no positive labels is an error","runtime (in seconds)","Pass",0.0054305,"remove ElemStat","2140adbe2a4b854b53287bc9d64e772f1f21e71d",2020-01-31 16:18:04,2020-04-22 09:02:07
+3,"data set with no negative labels is an error","runtime (in seconds)","Pass",0.005235,"remove ElemStat","2140adbe2a4b854b53287bc9d64e772f1f21e71d",2020-01-31 16:18:04,2020-04-22 09:02:07
+3,"NA labels is an error","runtime (in seconds)","Pass",0.005295,"remove ElemStat","2140adbe2a4b854b53287bc9d64e772f1f21e71d",2020-01-31 16:18:04,2020-04-22 09:02:07
+3,"NA scores is an error","runtime (in seconds)","Pass",0.0063815,"remove ElemStat","2140adbe2a4b854b53287bc9d64e772f1f21e71d",2020-01-31 16:18:04,2020-04-22 09:02:08
+3,"NA weights is an error","runtime (in seconds)","Pass",0.005289,"remove ElemStat","2140adbe2a4b854b53287bc9d64e772f1f21e71d",2020-01-31 16:18:04,2020-04-22 09:02:08
+3,"test-errors.R","runtime (in seconds)","Pass",0.0252743,"remove ElemStat","2140adbe2a4b854b53287bc9d64e772f1f21e71d",2020-01-31 16:18:04,2020-04-22 09:02:08
